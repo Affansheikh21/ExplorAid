@@ -30,7 +30,13 @@ Example:
 ### Make sure you put your dataset into the datasets folder inside the repository. 
 
 
+<p align="center">
+
 ### Demo
+
+</p>
+
+
 ![](ss/1.png)
 ![](ss/2.png)
 ![](ss/3.png)
