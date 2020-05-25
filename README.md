@@ -26,7 +26,7 @@ Make sure you put your dataset into the datasets folder inside the repository.
 
 
 ### Demo
-![Alt text](https://github.com/Affansheikh21/ExplorAid/tree/master/ss/1.png?raw=true)
+![](ss/1.png)
 <img src="{{ site.url }}{{ site.baseurl }}/ss/1.png">
 <img src="{{ site.url }}{{ site.baseurl }}/ss/2.png">
 <img src="{{ site.url }}{{ site.baseurl }}/ss/3.png">
