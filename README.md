@@ -27,14 +27,13 @@ Example:
 #### Network URL: http://192.168.0.105:8501
 
 
+
 ### Make sure you put your dataset into the datasets folder inside the repository. 
 
 
-<p align="center">
 
 ### Demo
 
-</p>
 
 
 ![](ss/1.png)
