@@ -161,7 +161,7 @@ def main():
 
 	st.sidebar.header("Application Info")
 	st.sidebar.text("Built using Streamlit")
-	st.sidebar.markdown("[Want to use it? Click here](https://github.com/Affansheikh21/)")
+	st.sidebar.markdown("[Want to use it? Click here](https://github.com/Affansheikh21/ExplorAid)")
 
 if __name__ == '__main__':
 	main()
