@@ -23,3 +23,17 @@ Exploratory Data Analysis Tool
 
 
 Make sure you put your dataset into the datasets folder inside the repository. 
+
+
+### Demo
+
+<img src="{{ site.url }}{{ site.baseurl }}/ss/1.png">
+<img src="{{ site.url }}{{ site.baseurl }}/ss/2.png">
+<img src="{{ site.url }}{{ site.baseurl }}/ss/3.png">
+<img src="{{ site.url }}{{ site.baseurl }}/ss/4.png">
+<img src="{{ site.url }}{{ site.baseurl }}/ss/5.png">
+<img src="{{ site.url }}{{ site.baseurl }}/ss/6.png">
+<img src="{{ site.url }}{{ site.baseurl }}/ss/7.png">
+<img src="{{ site.url }}{{ site.baseurl }}/ss/8.png">
+<img src="{{ site.url }}{{ site.baseurl }}/ss/9.png">
+<img src="{{ site.url }}{{ site.baseurl }}/ss/10.png">
